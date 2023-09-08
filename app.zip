@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>fab</title>
+</head>
+
+<body>
+  <center><h1>Application form</h1></center>
+  <p><h4><i>It's application form for who are eligible to attend the program session about water management.</i></h4>
+  <center><h5>Eligible students</h5></center></p>
+  <center><a href="/fab.html/form.html"><img src="click here .jpg" height="100px" alt=""></a><center>
+</body>
+
+</html>
